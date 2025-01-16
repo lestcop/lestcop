@@ -1,5 +1,6 @@
-## Hola soy Lester Ojeda 👋
-
+## Hola mi nombre es Lester Ojeda 👋
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
+### Freelance full-stack iOS & Android engineer
 <!--
 **lestcop/lestcop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
