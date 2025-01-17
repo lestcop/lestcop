@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Lester Ojeda 👋
+# ![https://mouredev.com](https://github.com/lestcop/repo-dev/blob/main/icon.png) Hola, mi nombre es Lester Ojeda 👋
 ### Freelance Front End Developer
 <!--
 **lestcop/lestcop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
