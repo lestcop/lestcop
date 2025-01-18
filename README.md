@@ -1,6 +1,6 @@
 # ![https://www.linkedin.com/in/lestcop/](https://github.com/lestcop/repo-dev/blob/main/lester-emotee.png) Hola, mi nombre es Lester Ojeda 👋
 ### 💻 Front End Developer
-##👷‍♂️🚧🏗️
+## 👷‍♂️🚧🏗️
 
 
 
