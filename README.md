@@ -1,5 +1,14 @@
-## 👋 Hola, mi nombre es Lester Ojeda 💻📚
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, mi nombre es Lester Ojeda 💻📚
 ![Image](https://github.com/user-attachments/assets/cd7a11e1-b404-443d-8a17-eef1d0b27798)
+## 
+<p>
+Me llamo Lester pero mis amigos me llaman siempre de una forma diferente, desde muy joven empezó mi pasión por la programación y desde entonces me he ido formando para convertirme en desarrollador web.
+El aprendizaje es constante para poder desarrollador proyectos que sean amigables, estables y optimizados para brindarle al usuario una buena experiencia de uso.
+</p>
+
+## Skills and Tools 🛠️:
+
+
 
 
 
