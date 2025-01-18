@@ -7,9 +7,24 @@ El aprendizaje es constante para poder desarrollador proyectos que sean amigable
 </p>
 
 ## Skills and Tools 🛠️:
-
-
-
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular","Next.js"],
+         css: ["Material Design", "Tailwind CSS"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "PostgreSQL"],
+   },
+   currentOccupation: ["open for job opportunities"],
+   challenge: "I am working to learn new technologies.",
+};
+```
 
 
 
