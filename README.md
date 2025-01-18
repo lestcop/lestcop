@@ -1,7 +1,6 @@
 ## 👋 Hola, mi nombre es Lester Ojeda 💻📚
 ![Image](https://github.com/user-attachments/assets/cd7a11e1-b404-443d-8a17-eef1d0b27798)
-### 💻 Front End Developer
-## 👷‍♂️🚧🏗️
+
 
 
 
