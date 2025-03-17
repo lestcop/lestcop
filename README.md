@@ -8,6 +8,8 @@ El aprendizaje es constante para poder desarrollador proyectos que sean amigable
 </p>
 
 ## Skills and Tools 🛠️:
+## 🚧 En Construcción 🚧:
+<!--
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -26,7 +28,7 @@ const aboutMe = {
    challenge: "I am working to learn new technologies.",
 };
 ```
-
+-->
 
 
 
