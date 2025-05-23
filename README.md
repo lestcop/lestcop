@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, mi nombre es Lester Ojeda
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, mi nombre es Lester 
 <!--
 ![Image](https://github.com/user-attachments/assets/cd7a11e1-b404-443d-8a17-eef1d0b27798)
 -->
