@@ -1,14 +1,11 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, mi nombre es Lester 
+<!--
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+-->
+### 👋 Hi, I am Lester Ojeda 
+A FullStack Developer by day ☀️ and a code bug fixer by night 🌙
 <!--
 ![Image](https://github.com/user-attachments/assets/cd7a11e1-b404-443d-8a17-eef1d0b27798)
 -->
-<p>
-💻 Me llamo Lester pero mis amigos me llaman siempre de una forma diferente, desde muy joven empezó mi pasión por la programación y desde entonces me he ido formando para convertirme en desarrollador web.
-El aprendizaje es constante para poder desarrollador proyectos que sean amigables, estables y optimizados para brindarle al usuario una buena experiencia de uso.
-</p>
-
-## Skills and Tools 🛠️:
-## 🚧 En Construcción 🚧:
 <!--
 ```javascript
 const aboutMe = {
@@ -20,7 +17,7 @@ const aboutMe = {
          css: ["Material Design", "Tailwind CSS"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Express.js","Spring Boot"],
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
    },
@@ -29,9 +26,49 @@ const aboutMe = {
 };
 ```
 -->
+### 👨‍💻 About Me
 
+```javascript
+const aboutMe = () => ({
+  pronouns: "he | him",
+  code: ["💛 Javascript", "💙 Typescript", "📄 HTML", "🎨 CSS"],
+  technologies: {
+    frontEnd: {
+      js: ["⚛️ React", "🅰️ Angular", "⬢ Next.js"],
+      css: ["🎨 Material Design", "🌬️ Tailwind CSS"],
+    },
+    backEnd: {
+      js: ["🚂 Express.js", "☕ Spring Boot"],
+    },
+    databases: ["🍃 MongoDB", "🐬 mySQL", "🐘 PostgreSQL"],
+  },
+  currentOccupation: "🔎 Open for job opportunities",
+  challenge: "📚 I am working to learn new technologies.",
+});
 
+console.log(aboutMe());
+```
+<!--
+## 👨‍💻 About Me
 
+- 🙋 Pronouns: **he | him**
+- 💻 Languages I code in: **Javascript, Typescript, HTML, CSS**
+- 🎨 Frontend:
+  - ⚛️ React
+  - 🅰️ Angular
+  - ⬢ Next.js
+  - 🎨 Material Design
+  - 🌬️ Tailwind CSS
+- ⚙️ Backend:
+  - 🚂 Express.js
+  - ☕ Spring Boot
+- 🗄️ Databases:
+  - 🍃 MongoDB
+  - 🐬 MySQL
+  - 🐘 PostgreSQL
+- 🔎 Current occupation: **Open for job opportunities**
+- 📚 Challenge: **I am working to learn new technologies**
+-->
 <!--
 **lestcop/lestcop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
