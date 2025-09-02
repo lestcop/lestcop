@@ -53,7 +53,6 @@ console.log(aboutMe());
 
 ## 👨‍💻 About Me
 
-- 🙋 Pronouns: **he | him**
 - 💻 Languages I code in: **Javascript, Typescript, HTML, CSS**
 - 🎨 Frontend:
   - ⚛️ React
