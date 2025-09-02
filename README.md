@@ -26,6 +26,7 @@ const aboutMe = {
 };
 ```
 -->
+<!--
 ### 👨‍💻 About Me
 
 ```javascript
@@ -48,7 +49,8 @@ const aboutMe = () => ({
 
 console.log(aboutMe());
 ```
-<!--
+-->
+
 ## 👨‍💻 About Me
 
 - 🙋 Pronouns: **he | him**
@@ -68,7 +70,7 @@ console.log(aboutMe());
   - 🐘 PostgreSQL
 - 🔎 Current occupation: **Open for job opportunities**
 - 📚 Challenge: **I am working to learn new technologies**
--->
+
 <!--
 **lestcop/lestcop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
