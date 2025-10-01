@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 -->
 ### 👋 Hi, I am Lester Ojeda 
-A FullStack Developer by day ☀️ and a code bug fixer by night 🌙
+A FrontEnd Developer by day ☀️ and a code bug fixer by night 🌙
 <!--
 ![Image](https://github.com/user-attachments/assets/cd7a11e1-b404-443d-8a17-eef1d0b27798)
 -->
