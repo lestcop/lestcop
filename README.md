@@ -26,7 +26,7 @@ const aboutMe = {
 };
 ```
 -->
-<!--
+
 ### 👨‍💻 About Me
 
 ```javascript
@@ -49,8 +49,7 @@ const aboutMe = () => ({
 
 console.log(aboutMe());
 ```
--->
-
+<!--
 ## 👨‍💻 About Me
 
 - 💻 Languages I code in: **Javascript, Typescript, HTML, CSS**
