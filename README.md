@@ -35,7 +35,7 @@ const aboutMe = () => ({
   code: ["💛 Javascript", "💙 Typescript", "📄 HTML", "🎨 CSS"],
   technologies: {
     frontEnd: {
-      js: ["⚛️ React", "🅰️ Angular", "⬢ Next.js"],
+      js: ["⚛️ React", "⬢ Next.js"],
       css: ["🎨 Material Design", "🌬️ Tailwind CSS"],
     },
     backEnd: {
